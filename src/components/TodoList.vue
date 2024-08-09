@@ -6,7 +6,7 @@
       <table class="todo-table">
         <thead>
           <tr>
-            <th>#</th>
+            <th>No</th>
             <th>Todo</th>
             <th>Actions</th>
           </tr>
